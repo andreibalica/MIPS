@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../MIPS.srcs/sources_1/new/adder.sv" \
+"../../../../MIPS.srcs/sources_1/new/alu.sv" \
+"../../../../MIPS.srcs/sources_1/new/alu_control.sv" \
+"../../../../MIPS.srcs/sources_1/new/branch_control.sv" \
+"../../../../MIPS.srcs/sources_1/new/control.sv" \
+"../../../../MIPS.srcs/sources_1/new/data_memory.sv" \
+"../../../../MIPS.srcs/sources_1/new/instruction_memory.sv" \
+"../../../../MIPS.srcs/sources_1/new/mips.sv" \
+"../../../../MIPS.srcs/sources_1/new/mux2.sv" \
+"../../../../MIPS.srcs/sources_1/new/program_counter.sv" \
+"../../../../MIPS.srcs/sources_1/new/reg_file.sv" \
+"../../../../MIPS.srcs/sources_1/new/shift_left_2.sv" \
+"../../../../MIPS.srcs/sources_1/new/sign_extend.sv" \
+"../../../../MIPS.srcs/sim_1/new/tb_mips.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

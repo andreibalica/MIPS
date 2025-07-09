@@ -1,0 +1,20 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/Andreiu/Vivado Project/MIPS/MIPS.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sim_1/new/tb_mips.sv,1752065875,systemVerilog,,,,tb_mips,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/adder.sv,1751722835,systemVerilog,,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/alu.sv,,adder,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/alu.sv,1752060171,systemVerilog,,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/alu_control.sv,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/mips_defines.sv,alu,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/alu_control.sv,1752062779,systemVerilog,,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/branch_control.sv,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/mips_defines.sv,alu_control,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/branch_control.sv,1752051516,systemVerilog,,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/control.sv,,branch_control,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/control.sv,1752050915,systemVerilog,,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/data_memory.sv,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/mips_defines.sv,control,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/data_memory.sv,1751878994,systemVerilog,,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/instruction_memory.sv,,data_memory,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/instruction_memory.sv,1752065341,systemVerilog,,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/mips.sv,,instruction_memory,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/mips.sv,1752060583,systemVerilog,,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/mux2.sv,,mips,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/mips_defines.sv,1752064542,verilog,,,,,,,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/mux2.sv,1752033208,systemVerilog,,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/program_counter.sv,,mux2,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/program_counter.sv,1751798830,systemVerilog,,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/reg_file.sv,,program_counter,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/reg_file.sv,1751797122,systemVerilog,,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/shift_left_2.sv,,reg_file,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/shift_left_2.sv,1751796850,systemVerilog,,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/sign_extend.sv,,shift_left_2,,uvm,,,,,,
+D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sources_1/new/sign_extend.sv,1751723643,systemVerilog,,D:/Andreiu/Vivado Project/MIPS/MIPS.srcs/sim_1/new/tb_mips.sv,,sign_extend,,uvm,,,,,,
