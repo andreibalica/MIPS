@@ -1,0 +1,23 @@
+# Fisiere temporare si generate de Vivado
+*.log
+*.jou
+*.wdb
+*.pb
+*.bit
+*.bin
+*.str
+*.tcl
+*.html
+*.xml
+*.bgn
+
+# Foldere generate automat
+*.runs/
+*.sim/
+*.cache/
+*.webtalk/
+*.ip_user_files/
+*.hw/
+*.xpr
+*.Xil/
+*.restore.log
